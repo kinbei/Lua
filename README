@@ -1,6 +1,2 @@
-
-This is Lua 5.4.8, released on 21 May 2025.
-
-For installation instructions, license details, and
-further information about Lua, see doc/readme.html.
-
+This project is not the official Lua source code.
+It copies the code from https://github.com/lua/lua and reorganizes it into a release-friendly structure for easier building and integration.
